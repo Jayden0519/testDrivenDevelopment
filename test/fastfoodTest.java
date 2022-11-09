@@ -4,9 +4,9 @@ import static org.junit.jupiter.api.Assertions.*;
 
 class fastfoodTest {
 
-@Test
-void getfoodItems() {
+    @Test
+    void getfoodItems() {
 
-}
+    }
 
 }
